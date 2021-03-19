@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![jiaiqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaiqi)](https://github.com/jiaiqi/jiaiqi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaiqi)](https://github.com/jiaiqi/jiaiqi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaiqi&layout=compact)](https://github.com/jiaiqi/jiaiqi)
